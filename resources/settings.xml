@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <settings>
     <category label="General" >
-        <setting id="use_xbmc_name" type=bool label="Use XBMC client name?" default="false" />
+        <setting id="use_xbmc_name" type="bool" label="Use XBMC client name?" default="false" />
         <setting id="c_name" type="text" label="Client Name" default="PleXBMC Client" visible="eq(-1,false)" />
     </category>
     <category label="Debug" >
